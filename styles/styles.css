@@ -257,10 +257,6 @@ main .section.highlight {
 }
 
 /* hidden section */
-main .section.hidden {
-  display: none;
-}
-
 .section.hidden {
   display: none;
 }
