@@ -260,3 +260,7 @@ main .section.highlight {
 main .section.hidden {
   display: none;
 }
+
+.section.hidden {
+  display: none;
+}
